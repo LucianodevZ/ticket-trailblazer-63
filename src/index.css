@@ -11,11 +11,11 @@
     --foreground: 15 23 42;
     --background-secondary: 241 245 249;
 
-    /* Corporate Blue Palette */
-    --primary: 219 78% 50%;
+    /* Corporate Red Palette */
+    --primary: 0 65% 55%;
     --primary-foreground: 0 0% 100%;
-    --primary-light: 219 78% 60%;
-    --primary-dark: 219 78% 40%;
+    --primary-light: 0 65% 65%;
+    --primary-dark: 0 65% 45%;
     
     /* Card System */
     --card: 0 0% 100%;
@@ -34,17 +34,17 @@
     --danger: 0 84% 60%;
     --danger-foreground: 0 0% 100%;
 
-    /* Secondary System */
-    --secondary: 100 6% 96%;
-    --secondary-foreground: 15 23 42;
+    /* Secondary System - Corporate Blue */
+    --secondary: 219 78% 50%;
+    --secondary-foreground: 0 0% 100%;
 
     /* Muted System */
     --muted: 210 40% 98%;
     --muted-foreground: 100 6% 64%;
 
     /* Accent System */
-    --accent: 219 78% 95%;
-    --accent-foreground: 219 78% 40%;
+    --accent: 0 65% 95%;
+    --accent-foreground: 0 65% 45%;
 
     /* Destructive */
     --destructive: 0 84% 60%;
@@ -53,7 +53,7 @@
     /* Borders & Inputs */
     --border: 214 32% 91%;
     --input: 214 32% 91%;
-    --ring: 219 78% 50%;
+    --ring: 0 65% 55%;
 
     /* Gradients */
     --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-light)));
