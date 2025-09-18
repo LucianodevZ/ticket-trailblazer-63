@@ -7,9 +7,9 @@
 @layer base {
   :root {
     /* Background System */
-    --background: 248 250 252;
-    --foreground: 15 23 42;
-    --background-secondary: 241 245 249;
+    --background: 0 20% 97%;
+    --foreground: 0 15% 15%;
+    --background-secondary: 0 15% 94%;
 
     /* Corporate Red Palette */
     --primary: 0 65% 55%;
